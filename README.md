@@ -22,7 +22,7 @@ Berikut merupakan cara untuk build project atau menginstall program
 1. Clone repo menggunakan command berikut
 
 ```
-git clone https://github.com/alishalistyaa/IF2211-24-Card-Solver.git
+git clone https://github.com/alishalistyaa/Tucil1_13521171.git
 ```
 
 2. Setelah masuk ke folder program, jalankan perintah berikut untuk compile program utama!
@@ -38,6 +38,7 @@ Bagaimana cara menjalankan program? Gunakan command berikut pada folder program 
 ```
 bin/main
 ```
+Setelah itu, ikuti petunjuk pada program! Ingat bahwa kartu yang bisa dimasukkan hanyalah kartu A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, dan K. Program akan mengkomputasikan solusinya untukmu!
 
 <a name="struktur"></a>
 
@@ -80,3 +81,12 @@ bin/main
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/73476678/214376664-a1aa4f9f-c45e-4683-a53a-660d6a31bd3e.png">
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/73476678/214376734-737aea51-00ce-43db-bd17-c3846f61fd7a.png">
+
+<a name="author"></a>
+
+## Author
+<h4 align="center">
+    Created by Alisha Listya Wardhani/J<br/>
+    K1 / 13521171 / 2023
+</h4>
+<hr>
