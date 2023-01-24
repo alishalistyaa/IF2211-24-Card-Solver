@@ -86,7 +86,7 @@ Setelah itu, ikuti petunjuk pada program! Ingat bahwa kartu yang bisa dimasukkan
 
 ## Author
 <h4 align="center">
-    Created by Alisha Listya Wardhani/J<br/>
+    Created by Alisha Listya Wardhani<br/>
     K1 / 13521171 / 2023
 </h4>
 <hr>
