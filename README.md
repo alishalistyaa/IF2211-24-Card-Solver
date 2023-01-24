@@ -76,6 +76,7 @@ bin/main
 ```
      
 <a name="tampilan"></a>
+## Tampilan Program
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/73476678/214376664-a1aa4f9f-c45e-4683-a53a-660d6a31bd3e.png">
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/73476678/214376734-737aea51-00ce-43db-bd17-c3846f61fd7a.png">
